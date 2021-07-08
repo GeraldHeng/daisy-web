@@ -1,0 +1,19 @@
+{
+  "infoHeading": "Heres are our contacts, need more description",
+  "address": {
+    "title": "Address",
+    "location": "Demsey 8D"
+  },
+  "contact": {
+    "title": "Contact",
+    "mobileNo": "+65 92386531",
+    "hotline": "655565555",
+    "email": "info@daisy.com"
+  },
+  "workingHour": {
+    "title": "Hour of operation",
+    "dayOne": "Monday – Friday : 09:00 – 18:00",
+    "dayTwo": "Sunday & Saturday: 09:00 – 14:00"
+  },
+  "contactFormHeader": "Get in contact with us, fill out this form"
+}
