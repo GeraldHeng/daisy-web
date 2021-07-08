@@ -19,8 +19,8 @@
                     <div class="faq-content-area">
                         <!-- Section Title Start -->
                         <div class="section-title text-left mb-50" data-aos="fade-up">
-                            <span class="sub-title">Everything <strong>MaxCoach</strong></span>
-                            <h2 class="title fz-48">Construct A <span>Stunning</span> Career Perspective</h2>
+                            <span class="sub-title">Everything <strong>Daisy</strong></span>
+                            <h2 class="title fz-48">Enable your kids <span>wholesome</span> growth</h2>
                         </div>
                         <!-- Section Title End -->
 

@@ -9,7 +9,7 @@
           <!-- Header Logo Start -->
           <div class="col-xl-3 col-auto">
             <div class="header-logo">
-              <n-link to="/daisy/home#home">
+              <n-link to="/home#home">
                 <img
                   class="dark-logo"
                   src="/images/logo/dark-logo.png"
@@ -42,7 +42,7 @@
 
                 <n-link
                   class="d-none d-sm-block"
-                  to="/daisy/home#newsletter"
+                  to="/home#newsletter"
                 >
                   <a class="btn btn-primary btn-hover-secondary btn-sm">
                     Join our Newsletter!
@@ -76,7 +76,7 @@
 <script>
 export default {
   components: {
-    Navigation: () => import("@/components/edited/Navigation"),
+    Navigation: () => import("@/components/Navigation"),
   },
 
   data() {
