@@ -2,7 +2,7 @@
 
 .intro2-section {
     position: relative;
-
+    // background-color: $light-yellow;
     display: flex;
     align-items: center;
     margin-top: 65px;
@@ -32,6 +32,7 @@
         font-size: 48px;
         line-height: 1.17;
         color: $secondary;
+        // color: #000000;
     }
 
     & .desc {
@@ -43,6 +44,7 @@
             font-weight: 500;
             line-height: 1.67;
             color: #8c89a2;
+            // color: $secondary;
         }
     }
 

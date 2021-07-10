@@ -28,7 +28,13 @@
 
         <!-- Intro One Course Start -->
         <div class="col max-mb-30">
-          <div class="contact-image intro2-image">
+          <!-- <div class="intro5-image" data-depth="0.4">
+              <img
+                src="/images/intro/intro5/home-5-hero-image.png"
+                alt="hero"
+              />
+            </div> -->
+          <div class="contact-image intro2-image" data-depth="0.4">
             <img src="/images/others/contact.jpg" alt="image" />
 
             <!-- Animation Shape Start -->
@@ -42,7 +48,11 @@
               dataDepth="-4"
               imgSrc="/images/shape-animation/about-shape-1.png"
             />
-            <ShapeWithAnimation addClassName="shape-3" dataDepth="4" />
+            <ShapeWithAnimation
+              addClassName="shape-2"
+              dataDepth="5"
+              imgSrc="/images/shape-animation/flower-shape.png"
+            />
             <ShapeWithAnimation
               addClassName="shape-4"
               dataDepth="4"
@@ -51,8 +61,9 @@
             <ShapeWithAnimation
               addClassName="shape-5"
               dataDepth="4"
-              imgSrc="/images/shape-animation/nwesletter-shape-2.png"
+              imgSrc="/images/shape-animation/sun-shape.png"
             />
+
             <!-- Animation Shape End -->
           </div>
         </div>

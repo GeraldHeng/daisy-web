@@ -1,4 +1,4 @@
-# maxcoach-vue
+# Daisy
 
 ## Build Setup
 
